@@ -4,7 +4,7 @@
 
 CareAxis is a responsive healthcare navigation website developed as part of a Front-End Developer Intern assessment for Ourea. The project focuses on creating a user-friendly interface that helps people explore healthcare services and understand the process of planning medical treatment in India.
 
-The website is built with React and React-Bootstrap, following the provided UI/UX design reference.
+The website is built with React and React-Bootstrap
 
 
 ## Technologies Used
