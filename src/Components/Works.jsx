@@ -1,6 +1,6 @@
 import React from 'react'
 import Card from 'react-bootstrap/Card';
-import icon from '../assets/person.png'
+import icon from '../assets/Person.png'
 function Works() {
   return (
     <div>
