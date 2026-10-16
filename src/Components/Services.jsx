@@ -14,31 +14,31 @@ function Services() {
       {/* cards */}
       <div className="row g-3">
         <div className="col text-center">
-          <img src={img1} alt="service1"  className="img-fluid" />
+          <img src={img1} alt="service1" className="img-fluid" />
           <p className='mt-2 mb-0'>Find a Doctor</p>
         </div>
         <div className="col text-center">
-          <img src={img2} alt="service2" className="img-fluid"/>
+          <img src={img2} alt="service2" className="img-fluid" />
           <p className='mt-2 mb-0'>Find a Hospital</p>
         </div>
         <div className="col text-center">
-          <img src={img3} alt="service 3" className="img-fluid"/>
+          <img src={img3} alt="service 3" className="img-fluid" />
           <p className='mt-2 mb-0'>Second Opinion</p>
         </div>
         <div className="col text-center">
-          <img src={img4} alt=" service 4"className="img-fluid" />
+          <img src={img4} alt=" service 4" className="img-fluid" />
           <p className='mt-2 mb-0'>Talk to a Navigator</p>
         </div>
         <div className="col text-center">
-          <img src={img5} alt="service 5" className="img-fluid"/>
+          <img src={img5} alt="service 5" className="img-fluid" />
           <p className='mt-2 mb-0'>Book a lab test</p>
         </div>
         <div className="col text-center">
-          <img src={img6} alt="service 6" className="img-fluid"/>
+          <img src={img6} alt="service 6" className="img-fluid" />
           <p className='mt-2 mb-0'>Order medicine</p>
         </div>
         <div className="col text-center">
-          <img src={img7} alt="service 7" className="img-fluid"/>
+          <img src={img7} alt="service 7" className="img-fluid" />
           <p className='mt-2 mb-0'>Home & Recovery</p>
         </div>
       </div>

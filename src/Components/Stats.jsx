@@ -8,7 +8,7 @@ function Stats() {
                   {/* inner container */}
                   <div className="bg-white rounded-3 p-3 p-md-4">
                         <div className="d-flex flex-wrap flex-lg-nowrap text-center align-items-center ">
-                              <div  className='flex-fill text-center'>
+                              <div className='flex-fill text-center'>
                                     <p className="mb-0"><span className='fs-1 fw-semibold'>500+</span> <br /> <span className='text-secondary'>Verified specialists</span></p>
                               </div>
                               {/* vertical line */}

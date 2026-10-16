@@ -24,7 +24,7 @@ function Works() {
                 <div className='mb-5 text-secondary'>
                   01
                 </div>
-                <img src={icon} alt="" className="img-fluid mb-2"/>
+                <img src={icon} alt="" className="img-fluid mb-2" />
                 <Card.Title>Discover</Card.Title>
                 <Card.Text>
                   Understand your health need and find the right direction.
@@ -34,12 +34,12 @@ function Works() {
           </div>
           <div className="col">
 
-            <Card  className="h-100">
+            <Card className="h-100">
               <Card.Body>
                 <div className='mb-5 text-secondary'>
                   02
                 </div>
-                <img src={icon} alt="" className="img-fluid mb-2"  />
+                <img src={icon} alt="" className="img-fluid mb-2" />
                 <Card.Title>Navigate</Card.Title>
                 <Card.Text>
                   Get personalised guidance and connect with the right specialist.
@@ -69,7 +69,7 @@ function Works() {
                 <div className='mb-5 text-secondary'>
                   04
                 </div>
-                <img src={icon} alt="" className="img-fluid mb-2"/>
+                <img src={icon} alt="" className="img-fluid mb-2" />
                 <Card.Title>Treat</Card.Title>
                 <Card.Text>
                   Coordinate appointments, admission, insurance and treatment.
@@ -99,7 +99,7 @@ function Works() {
                 <div className='mb-5 text-secondary'>
                   06
                 </div>
-                <img src={icon} alt="" className="img-fluid mb-2"/>
+                <img src={icon} alt="" className="img-fluid mb-2" />
                 <Card.Title>Stay Healthy</Card.Title>
                 <Card.Text>
                   Continue with preventive care and long-term support.

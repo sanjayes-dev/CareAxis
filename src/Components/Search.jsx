@@ -36,8 +36,8 @@ function SearchSection() {
             type="button"
             onClick={() => setActiveTab('guidance')}
             className={`text-center position-relative flex-fill flex-md-grow-0 px-3 px-md-4 py-3 bg-white border-0 border-end ${activeTab === 'guidance'
-                ? 'fw-semibold text-dark'
-                : 'text-secondary'
+              ? 'fw-semibold text-dark'
+              : 'text-secondary'
               }`}
           >
             Tell us what you need
@@ -57,8 +57,8 @@ function SearchSection() {
             type="button"
             onClick={() => setActiveTab('direct')}
             className={` text-center position-relative flex-fill flex-md-grow-0 px-3 px-md-4 py-3 bg-white border-0 ${activeTab === 'direct'
-                ? 'fw-semibold text-dark'
-                : 'text-secondary'
+              ? 'fw-semibold text-dark'
+              : 'text-secondary'
               }`}
           >
             Search Directly

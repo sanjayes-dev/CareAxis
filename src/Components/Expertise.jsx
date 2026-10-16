@@ -93,7 +93,7 @@ function Expertise() {
             {/* Step 1 */}
             <div className="d-flex flex-column flex-lg-row align-items-center align-items-lg-start flex-grow-1">
 
-              <div className="d-flex flex-column align-items-center text-center"style={{ width: "100%", maxWidth: "150px", flexShrink: 0 }} >
+              <div className="d-flex flex-column align-items-center text-center" style={{ width: "100%", maxWidth: "150px", flexShrink: 0 }} >
                 {/* Circle */}
                 <div className="rounded-circle d-flex align-items-center justify-content-center fw-bold"
                   style={{ width: "55px", height: "55px", backgroundColor: "#FFFFFF", border: "1.5px solid #0B6E7A", color: "#0B6E7A" }}>
@@ -115,7 +115,7 @@ function Expertise() {
             {/* Step 2 */}
             <div className="d-flex flex-column flex-lg-row align-items-center align-items-lg-start flex-grow-1">
 
-              <div className="d-flex flex-column align-items-center text-center"style={{ width: "100%", maxWidth: "150px", flexShrink: 0 }} >
+              <div className="d-flex flex-column align-items-center text-center" style={{ width: "100%", maxWidth: "150px", flexShrink: 0 }} >
                 {/* Circle */}
                 <div className="rounded-circle d-flex align-items-center justify-content-center fw-bold"
                   style={{ width: "55px", height: "55px", backgroundColor: "#FFFFFF", border: "1.5px solid #0B6E7A", color: "#0B6E7A" }}>
@@ -137,7 +137,7 @@ function Expertise() {
             {/* Step 3 */}
             <div className="d-flex flex-column flex-lg-row align-items-center align-items-lg-start flex-grow-1">
 
-              <div className="d-flex flex-column align-items-center text-center"style={{ width: "100%", maxWidth: "150px", flexShrink: 0 }} >
+              <div className="d-flex flex-column align-items-center text-center" style={{ width: "100%", maxWidth: "150px", flexShrink: 0 }} >
                 {/* Circle */}
                 <div className="rounded-circle d-flex align-items-center justify-content-center fw-bold"
                   style={{ width: "55px", height: "55px", backgroundColor: "#FFFFFF", border: "1.5px solid #0B6E7A", color: "#0B6E7A" }}>
@@ -159,7 +159,7 @@ function Expertise() {
             {/* Step 4 */}
             <div className="d-flex flex-column flex-lg-row align-items-center align-items-lg-start flex-grow-1">
 
-              <div className="d-flex flex-column align-items-center text-center"style={{ width: "100%", maxWidth: "150px", flexShrink: 0 }} >
+              <div className="d-flex flex-column align-items-center text-center" style={{ width: "100%", maxWidth: "150px", flexShrink: 0 }} >
                 {/* Circle */}
                 <div className="rounded-circle d-flex align-items-center justify-content-center fw-bold"
                   style={{ width: "55px", height: "55px", backgroundColor: "#FFFFFF", border: "1.5px solid #0B6E7A", color: "#0B6E7A" }}>
@@ -181,7 +181,7 @@ function Expertise() {
             {/* Step 5 */}
             <div className="d-flex flex-column flex-lg-row align-items-center align-items-lg-start flex-grow-1">
 
-              <div className="d-flex flex-column align-items-center text-center"style={{ width: "100%", maxWidth: "150px", flexShrink: 0 }} >
+              <div className="d-flex flex-column align-items-center text-center" style={{ width: "100%", maxWidth: "150px", flexShrink: 0 }} >
                 {/* Circle */}
                 <div className="rounded-circle d-flex align-items-center justify-content-center fw-bold"
                   style={{ width: "55px", height: "55px", backgroundColor: "#FFFFFF", border: "1.5px solid #0B6E7A", color: "#0B6E7A" }}>
@@ -203,7 +203,7 @@ function Expertise() {
             {/* Step 6 */}
             <div className="d-flex flex-column flex-lg-row align-items-center align-items-lg-start flex-grow-1">
 
-              <div className="d-flex flex-column align-items-center text-center"style={{ width: "100%", maxWidth: "150px", flexShrink: 0 }} >
+              <div className="d-flex flex-column align-items-center text-center" style={{ width: "100%", maxWidth: "150px", flexShrink: 0 }} >
                 {/* Circle */}
                 <div className="rounded-circle d-flex align-items-center justify-content-center fw-bold"
                   style={{ width: "55px", height: "55px", backgroundColor: "#0B6E7A", border: "1.5px solid #0B6E7A", color: "#FFFFFF" }}>

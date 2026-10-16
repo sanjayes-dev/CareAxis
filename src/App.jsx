@@ -16,27 +16,27 @@ import Reviews from './Components/Reviews';
 import Footer from './Components/Footer';
 
 function App() {
- 
+
 
   return (
     <>
-    <div className=''>
-       <Header/>
-       <Banner/>
-       <Services/>
-       <Stats/>
-       <Works/>
-       <Guide/>
-       <Expertise/>
-       <Axis360/>
-       <Plan/>
-       <Reviews/>
-       <Footer/>
+      <div className=''>
+        <Header />
+        <Banner />
+        <Services />
+        <Stats />
+        <Works />
+        <Guide />
+        <Expertise />
+        <Axis360 />
+        <Plan />
+        <Reviews />
+        <Footer />
 
-    
-    </div>
-   
-              
+
+      </div>
+
+
     </>
   )
 }

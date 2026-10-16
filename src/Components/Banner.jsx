@@ -10,7 +10,7 @@ function Banner() {
         {/* text section */}
         <div className="col-12 col-lg-6 rounded" style={{ backgroundColor: "#E2F0EE" }}>
           <div className='p-4 p-lg-4  rounded h-100 d-flex flex-column'>
-            <span  className=' fw-bold'  style={{ fontSize: "clamp(1.8rem, 3vw, 3rem)", lineHeight: 1.2 }}>  Right Care,with <br className="d-none d-sm-block" /> guidance at every step.</span>
+            <span className=' fw-bold' style={{ fontSize: "clamp(1.8rem, 3vw, 3rem)", lineHeight: 1.2 }}>  Right Care,with <br className="d-none d-sm-block" /> guidance at every step.</span>
 
             <p className="mt-3 mb-0">
               From choosing the right specialist to recovering at <br className="d-none d-lg-block" /> home, a CareAxis Navigator plans every step with <br className="d-none d-lg-block" /> you.
@@ -33,7 +33,7 @@ function Banner() {
             alt="CareAxis healthcare banner"
             style={{
               objectFit: "cover",
-               height: "clamp(280px, 45vw, 644px)"
+              height: "clamp(280px, 45vw, 644px)"
             }}
           />
 

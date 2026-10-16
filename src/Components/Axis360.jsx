@@ -91,7 +91,7 @@ function Axis360() {
                 <div className="col-12 col-md-6">
                     <div className="position-relative overflow-hidden rounded">
                         {/* image */}
-                        <img src={img6} alt=""  className="img-fluid w-100"style={{ height: "220px", objectFit: "cover" }}/>
+                        <img src={img6} alt="" className="img-fluid w-100" style={{ height: "220px", objectFit: "cover" }} />
                         {/* text  */}
                         <div className='position-absolute top-0 start-0 p-3'>
                             <p className='fs-5' style={{ color: "#087e7c", fontWeight: "bold" }}>Nursing</p>
@@ -102,7 +102,7 @@ function Axis360() {
                 <div className="col-12 col-md-6">
                     <div className="position-relative  overflow-hidden rounded" >
                         {/* image */}
-                        <img src={img7} alt="" className="img-fluid w-100"style={{ height: "220px", objectFit: "cover" }}/>
+                        <img src={img7} alt="" className="img-fluid w-100" style={{ height: "220px", objectFit: "cover" }} />
                         {/* text  */}
                         <div className='position-absolute top-0 start-0 p-3'>
                             <p className='fs-5' style={{ color: "#087e7c", fontWeight: "bold" }}>Chronic and preventive care</p>

@@ -17,15 +17,15 @@ function Header() {
             <img
               alt="logo"
               src={logo}
-               style={{
-            width: "40px",
-            height: "40px",
-            objectFit: "contain"
-          }}
+              style={{
+                width: "40px",
+                height: "40px",
+                objectFit: "contain"
+              }}
             />
             <Navbar.Brand href="#home" className='ms-2 me-2'>
 
-              <span className='fw-bold '>CareAxis.</span> <br /> <span  style={{ fontSize: "12px" }} className='text-secondary'>HEALTH NETWORK</span>
+              <span className='fw-bold '>CareAxis.</span> <br /> <span style={{ fontSize: "12px" }} className='text-secondary'>HEALTH NETWORK</span>
             </Navbar.Brand>
           </div>
 
